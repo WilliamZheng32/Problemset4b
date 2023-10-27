@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=problemset4b
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ problemset4b\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str
+comment2.target=java.lang.String\ palindromeCheck(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ pigtranslator(java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ pigtranslatortest(java.lang.String)
+comment5.params=min\ max
+comment5.target=int\ acendingnumbers(int,\ int)
+numComments=6
